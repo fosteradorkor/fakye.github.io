@@ -1,0 +1,54 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 18 Dec 2018 10:11:32 at http://fakye.web-cartel.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://fakye.web-cartel.com/ -O1 "F:\My Web Sites\FAKYE" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:15:29	Warning: 	file not stored in cache due to bogus state (broken size, expected 1425158 got 1378391): fakye.web-cartel.com/images/listing/1525955867.Screen Shot 2018-02-27 at 10.33.35 AM.png
+10:17:24	Warning: 	Retry after error -4 (Incorrect length (1378391 Bytes, 1425158 expected)) at link fakye.web-cartel.com/images/listing/1525955867.Screen Shot 2018-02-27 at 10.33.35 AM.png (from fakye.web-cartel.com/)
+10:18:22	Error: 	"Not Found" (404) at link fakye.web-cartel.com/listing_detail.html (from fakye.web-cartel.com/)
+10:18:26	Error: 	"Not Found" (404) at link fakye.web-cartel.com/fonts/dropify.eot (from fakye.web-cartel.com/css/dropify.min.css)
+10:18:26	Error: 	"Not Found" (404) at link fakye.web-cartel.com/fonts/dropify.woff (from fakye.web-cartel.com/css/dropify.min.css)
+10:18:26	Error: 	"Not Found" (404) at link fakye.web-cartel.com/fonts/dropify.ttf (from fakye.web-cartel.com/css/dropify.min.css)
+10:18:26	Error: 	"Not Found" (404) at link fakye.web-cartel.com/fonts/dropify.svg (from fakye.web-cartel.com/css/dropify.min.css)
+10:18:26	Error: 	"Not Found" (404) at link fakye.web-cartel.com/images/add-image.png (from fakye.web-cartel.com/css/stylesheet.css)
+10:18:26	Error: 	"Not Found" (404) at link fakye.web-cartel.com/js/owl.carousel/owl.video.play.png (from fakye.web-cartel.com/js/owl.carousel/owl.carousel.css)
+10:18:26	Error: 	"Not Found" (404) at link fakye.web-cartel.com/login.html (from fakye.web-cartel.com/about-fakye)
+10:18:26	Error: 	"Not Found" (404) at link fakye.web-cartel.com/about.html (from fakye.web-cartel.com/about-fakye)
+10:18:27	Error: 	"Not Found" (404) at link fakye.web-cartel.com/categories/images/loading.gif (from fakye.web-cartel.com/categories/9-Clothing)
+10:18:30	Error: 	"Not Found" (404) at link fakye.web-cartel.com/categories/images/new-thum-1.png (from fakye.web-cartel.com/categories/9-Clothing)
+10:18:30	Error: 	"Not Found" (404) at link fakye.web-cartel.com/categories/listing_detail.html (from fakye.web-cartel.com/categories/9-Clothing)
+10:18:46	Error: 	"Not Found" (404) at link fakye.web-cartel.com/1-THE BIG CHEESE/images/loading.gif (from fakye.web-cartel.com/1-THE BIG CHEESE/Accra)
+10:18:46	Error: 	"Not Found" (404) at link fakye.web-cartel.com/1-THE BIG CHEESE/images/new-thum-1.png (from fakye.web-cartel.com/1-THE BIG CHEESE/Accra)
+10:18:46	Error: 	"Not Found" (404) at link fakye.web-cartel.com/11-Clothing/images/loading.gif (from fakye.web-cartel.com/11-Clothing/Accra)
+10:18:46	Error: 	"Not Found" (404) at link fakye.web-cartel.com/11-Clothing/images/new-thum-1.png (from fakye.web-cartel.com/11-Clothing/Accra)
+10:18:46	Error: 	"Not Found" (404) at link fakye.web-cartel.com/15-Used phone for dash/images/loading.gif (from fakye.web-cartel.com/15-Used phone for dash/Accra)
+10:18:46	Error: 	"Not Found" (404) at link fakye.web-cartel.com/15-Used phone for dash/images/new-thum-1.png (from fakye.web-cartel.com/15-Used phone for dash/Accra)
+10:18:46	Error: 	"Not Found" (404) at link fakye.web-cartel.com/16-car/images/loading.gif (from fakye.web-cartel.com/16-car/Accra)
+10:18:46	Error: 	"Not Found" (404) at link fakye.web-cartel.com/16-car/images/new-thum-1.png (from fakye.web-cartel.com/16-car/Accra)
+10:18:46	Error: 	"Not Found" (404) at link fakye.web-cartel.com/17-nice care/images/loading.gif (from fakye.web-cartel.com/17-nice care/Koforidua)
+10:18:46	Error: 	"Not Found" (404) at link fakye.web-cartel.com/17-nice care/images/new-thum-1.png (from fakye.web-cartel.com/17-nice care/Koforidua)
+10:18:46	Error: 	"Not Found" (404) at link fakye.web-cartel.com/18-Food to eat/images/loading.gif (from fakye.web-cartel.com/18-Food to eat/Koforidua)
+10:18:46	Error: 	"Not Found" (404) at link fakye.web-cartel.com/18-Food to eat/images/new-thum-1.png (from fakye.web-cartel.com/18-Food to eat/Koforidua)
+10:18:47	Error: 	"Not Found" (404) at link fakye.web-cartel.com/19-Used laptop/images/loading.gif (from fakye.web-cartel.com/19-Used laptop/Kumasi)
+10:18:47	Error: 	"Not Found" (404) at link fakye.web-cartel.com/19-Used laptop/images/new-thum-1.png (from fakye.web-cartel.com/19-Used laptop/Kumasi)
+10:18:47	Error: 	"Not Found" (404) at link fakye.web-cartel.com/2-Free Furniture Give Away/images/loading.gif (from fakye.web-cartel.com/2-Free Furniture Give Away/Accra)
+10:18:47	Error: 	"Not Found" (404) at link fakye.web-cartel.com/2-Free Furniture Give Away/images/new-thum-1.png (from fakye.web-cartel.com/2-Free Furniture Give Away/Accra)
+10:18:47	Error: 	"Not Found" (404) at link fakye.web-cartel.com/21-Free Tractor/images/loading.gif (from fakye.web-cartel.com/21-Free Tractor/Accra)
+10:18:47	Error: 	"Not Found" (404) at link fakye.web-cartel.com/21-Free Tractor/images/new-thum-1.png (from fakye.web-cartel.com/21-Free Tractor/Accra)
+10:18:47	Error: 	"Not Found" (404) at link fakye.web-cartel.com/22-Used toy/images/loading.gif (from fakye.web-cartel.com/22-Used toy/Accra)
+10:18:47	Error: 	"Not Found" (404) at link fakye.web-cartel.com/22-Used toy/images/new-thum-1.png (from fakye.web-cartel.com/22-Used toy/Accra)
+10:18:47	Error: 	"Not Found" (404) at link fakye.web-cartel.com/23-Used infinix hot 4/images/loading.gif (from fakye.web-cartel.com/23-Used infinix hot 4/Accra)
+10:18:47	Error: 	"Not Found" (404) at link fakye.web-cartel.com/23-Used infinix hot 4/images/new-thum-1.png (from fakye.web-cartel.com/23-Used infinix hot 4/Accra)
+10:18:47	Error: 	"Not Found" (404) at link fakye.web-cartel.com/3-Apartment For Free Stay/images/loading.gif (from fakye.web-cartel.com/3-Apartment For Free Stay/Accra)
+10:18:47	Error: 	"Not Found" (404) at link fakye.web-cartel.com/3-Apartment For Free Stay/images/new-thum-1.png (from fakye.web-cartel.com/3-Apartment For Free Stay/Accra)
+10:18:47	Error: 	"Not Found" (404) at link fakye.web-cartel.com/privacy.html (from fakye.web-cartel.com/privacy-policy)
+10:18:47	Error: 	"Not Found" (404) at link fakye.web-cartel.com/8-Free Lady's Wear at Adenta/images/loading.gif (from fakye.web-cartel.com/8-Free Lady's Wear at Adenta/Accra)
+10:18:47	Error: 	"Not Found" (404) at link fakye.web-cartel.com/8-Free Lady's Wear at Adenta/images/new-thum-1.png (from fakye.web-cartel.com/8-Free Lady's Wear at Adenta/Accra)
+10:18:47	Error: 	"Not Found" (404) at link fakye.web-cartel.com/7-Rich Dad Poor Dad Book For Free/images/loading.gif (from fakye.web-cartel.com/7-Rich Dad Poor Dad Book For Free/Accra)
+10:18:50	Error: 	"Not Found" (404) at link fakye.web-cartel.com/7-Rich Dad Poor Dad Book For Free/images/new-thum-1.png (from fakye.web-cartel.com/7-Rich Dad Poor Dad Book For Free/Accra)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 18 seconds : 197 links scanned, 154 files written (11945027 bytes overall) [11378968 bytes received at 25979 bytes/sec], 2688776 bytes transferred using HTTP compression in 92 files, ratio 25%, 3.7 requests per connection
+(41 errors, 2 warnings, 0 messages)
