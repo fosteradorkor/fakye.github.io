@@ -947,7 +947,13 @@
                 console.log('one');
                 var swatches = new Vibrant(this).swatches()
 
-                $(this).parent().css({"background-color": swatches.Vibrant.getHex()});
+                try{
+                    $(this).parent().css({"background-color": swatches.Vibrant.getHex()});
+
+                }catch (e) {
+                    $(this).parent().css({"background-color": "white"});
+
+                }
 
                 console.log($(this).parent());
             })
